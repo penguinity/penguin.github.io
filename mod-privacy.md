@@ -1,6 +1,15 @@
 
 # AI Moderation & Privacy Infrastructure
 
+> **Portfolio Navigation:**  
+> * **Portfolio Summary (Here):** [Overview of Portfolio](./README.md)
+> * **Moderation & Privacy Infrastructure:** [Moderation & Privacy Infrastructure](mod-privacy.md)  
+> * **AI-Driven CSR Platform:** [AI-Driven CSR Platform](./training-playbook.md)  
+> * **Autonomous Community Operations RPA:** [Autonomous Community Operations RPA](./ai-ops-case-studies.md)
+> * **CMS Data Engineering Pipeline:** [CMS Data Engineering Pipeline](./ai-ops-case-studies.md)
+> * **Insight: CMS Part B Compliance Analytics Engine:** [Insight: Compliance Analytics Engine](./ai-ops-case-studies.md)
+> * **Portfolio Summary & Operational Scope** [Community Scope & Closure](./scale-and-scope.md)
+
 ## Summary
 
 As a dedicated online cancer support community expanded, I faced an unsustainable volume of diagnosis-seeking inquiries, repetitive community outreach regarding the same topics, and limited availability. Legitimate discussions from cancer patients and survivors were increasingly displaced by requests asking the community to identify suspicious health issues — requests the community is neither qualified nor permitted to answer.
