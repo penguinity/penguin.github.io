@@ -1,5 +1,5 @@
 
-# AI Moderation & Privacy Infrastructure
+# Moderation & Privacy Infrastructure
 
 > **Portfolio Navigation:**  
 > * **Portfolio Summary:** [Overview of Portfolio](./README.md)
@@ -73,6 +73,11 @@ This architecture enables long-term analysis of volunteer patterns, emerging ter
 # Decision Logic
 
 The moderation assistant follows deterministic decision rules supported by a structured knowledge base rather than probabilistic LLMs. Every automated action is constrained by explicit operational guardrails designed to prioritize community safety and consistency over automation coverage.
+<br>
+
+<img width="593" height="150" alt="image" src="https://github.com/user-attachments/assets/518b0458-c6e1-4c74-b8b3-1485e1a20c52" /><br>
+<img width="593" height="159" alt="image" src="https://github.com/user-attachments/assets/dfcf2f21-f0fe-4fd1-9463-fca63241fd7c" /><br>
+
 
 ### High-Confidence Classification
 
@@ -86,6 +91,9 @@ Automation is intentionally conservative.
 
 Whenever confidence falls below established thresholds or content cannot be confidently classified, responsibility remains with human volunteers. The system is designed to defer uncertain decisions rather than risk inappropriate moderation.
 
+<img width="836" height="259" alt="image" src="https://github.com/user-attachments/assets/b7bd1b8a-2b97-4b76-9eaf-f57272dff2ca" />
+
+
 ### Medical Safety Guardrails
 
 The assistant never attempts to diagnose medical conditions or provide clinical advice.
@@ -95,3 +103,5 @@ Content indicating a potential medical emergency or urgent health concern is nev
 ### Continuous Refinement
 
 Every approved or removed moderation action contributes anonymized operational signals back into the knowledge base, allowing confidence thresholds, recurring terminology, and moderation heuristics to be continuously refined while preserving strict privacy protections.
+
+<img width="1036" height="113" alt="image" src="https://github.com/user-attachments/assets/9bcd9970-d2fa-4eb4-8471-9d797a36f4f1" />
