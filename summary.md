@@ -9,7 +9,7 @@
 > * **Autonomous Community Operations RPA:** [Autonomous Community Operations RPA](auto-ops-rpa.md)
 > * **CMS Data Engineering Pipeline:** [CMS Data Engineering Pipeline](cms-de-pipe.md)
 > * **Insight: CMS Part B Compliance Analytics Engine:** [Insight: Compliance Analytics Engine](insight.md)
-> * **Portfolio Summary & Engineering Philosophy** [Profile Scope & Closure](summary.md)
+> * **Portfolio Summary & Engineering Philosophy (Here):** [Profile Scope & Closure](summary.md)
 
 ---
 
