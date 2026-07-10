@@ -1,5 +1,3 @@
-## Professional Summary
-
 > **Portfolio Navigation:**  
 > * **Portfolio Summary (Here):** [Overview of Portfolio](./README.md)
 > * **Moderation & Privacy Infrastructure:** [Moderation & Privacy Infrastructure](mod-privacy.md)  
@@ -9,10 +7,11 @@
 > * **Insight: CMS Part B Compliance Analytics Engine:** [Insight: Compliance Analytics Engine](./ai-ops-case-studies.md)
 > * **Portfolio Summary & Operational Scope** [Community Scope & Closure](./scale-and-scope.md)
 
+## Professional Summary
+
 ---
 
 > 💡 My path isn't traditional or linear, but it *has* been defined by building resilient operational and technical systems in environments where others see only chaos and complexity. I don't fear complexity — I learn from it.
-
 
 ---
 
