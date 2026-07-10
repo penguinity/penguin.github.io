@@ -112,7 +112,12 @@ Behavior is constrained through explicit prompt engineering, response validation
 
 One of the project's most significant engineering challenges involved building a custom C# extension for a legacy browser environment with extremely limited documentation.
 
-Rather than relying on modern APIs or SDKs, the platform required reverse engineering existing behaviors, designing custom abstractions, and developing reliable communication layers capable of supporting autonomous interaction within the virtual world.
+Rather than relying on modern APIs or SDKs, the platform required reverse engineering existing behaviors, designing custom abstractions, and developing reliable communication layers capable of supporting autonomous interaction within the virtual world.<br>
+
+<img width="897" height="512" alt="image" src="https://github.com/user-attachments/assets/d8692741-9dfa-41d5-9cea-001a4378c090" /><br>
+
+*The CSR platform was built on top of a legacy headless client whose documentation has remained largely unchanged for over a decade. Instead of replacing the client entirely, I reverse engineered its existing behaviors, extended its capabilities through a custom C# plugin, and developed the infrastructure necessary to support autonomous customer service representatives in a production environment.*
+
 
 ## ⌛️ Outcome
 
