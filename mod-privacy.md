@@ -44,10 +44,10 @@ The system was designed with several core operational objectives:
 * Analyze removal patterns and recurring terminology to better understand evolving community needs.
 * Preserve moderator oversight by escalating uncertain or ambiguous situations rather than attempting unsupported decisions.
 * Maintain strict privacy protections through anonymized data storage and zero retention of personally identifiable information.
-* Create a maintainable operational framework capable of evolving alongside community standards without requiring complete architectural redesign.
+* Create a maintainable operational framework capable of evolving alongside community standards without requiring complete architectural redesign.<br><br>
 
 
-<img width="684" height="973" alt="image" src="https://github.com/user-attachments/assets/94a1f5c9-ca3c-416d-9d31-8b5ca730df59" />
+<img width="684" height="973" alt="image" src="https://github.com/user-attachments/assets/94a1f5c9-ca3c-416d-9d31-8b5ca730df59" /><br><br>
 
 
 # 🔒 Privacy by Design
@@ -111,7 +111,7 @@ Every approved or removed moderation action contributes anonymized operational s
 
 <img width="1036" height="113" alt="image" src="https://github.com/user-attachments/assets/9bcd9970-d2fa-4eb4-8471-9d797a36f4f1" />
 
-## ⌛️ Business Outcome
+## ⌛️ Outcome
 
 The platform transformed a largely manual moderation workflow into a privacy-first operational support system capable of handling routine community management tasks with consistent, explainable decision-making. By automating diagnosis-seeking moderation, responding to common inquiries, and learning from validated moderation outcomes, the system significantly reduced repetitive workload while preserving human oversight for ambiguous cases. 
 
