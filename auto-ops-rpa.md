@@ -99,4 +99,5 @@ The demonstrations below showcase the platform operating in a live environment. 
 These demonstrations are intentionally sanitized to protect community privacy while accurately representing the platform's production behavior.
 
 → Demo 1: [Click Here!](lq_demo1.mp4)
+<br>
 → Demo 2: [Click Here!](0611(1).mp4)
