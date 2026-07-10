@@ -33,7 +33,7 @@ The projects in this portfolio represent a progression from operational automati
 
 Designed an intelligent assistant for a large healthcare community capable of responding to moderator inquiries, enforcing community standards, and classifying sensitive content using structured decision logic and learned decision logic. The system emphasizes privacy-by-design through carefully engineered data structures, strict guardrails, and the complete exclusion of personally identifiable information (PII). *This project has been maintained since late 2024. It will not be available on GitHub, but extensive documentation is available.*
 
-* **Impact**: Reduced repetitive moderation workload while preserving privacy, improving decision consistency, and allowing human moderators to focus on the community members who needed them most.
+* **Impact**: Reduced repetitive moderation workload while preserving privacy, improving decision consistency, and allowing human volunteers to focus on the community members who needed them most.
 
 → **AI-Driven CSR Platform**:
 
