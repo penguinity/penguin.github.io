@@ -17,9 +17,9 @@ Many independently operated businesses maintain virtual retail locations where v
 
 To address this gap, I engineered an autonomous customer service platform capable of operating as a persistent digital workforce. Each virtual representative can navigate independently, interact naturally with visitors, respond to customer inquiries, provide product and release information, and perform contextual actions within the virtual environment.
 
-The platform combines custom software engineering, configurable behavioral logic, and a modular personality system to create digital representatives that feel consistent, approachable, and uniquely tailored to each business while remaining centrally manageable through a structured administrative framework.
+The platform combines custom software engineering, configurable behavioral logic, and a modular personality system to create digital representatives that feel consistent, approachable, and uniquely tailored to each business while remaining centrally manageable through a structured administrative framework.<br><br>
 
-<img width="645" height="780" alt="image" src="https://github.com/user-attachments/assets/400c49c6-f83c-4017-98af-efb80ebec1c4" /><br>
+<img width="645" height="780" alt="image" src="https://github.com/user-attachments/assets/400c49c6-f83c-4017-98af-efb80ebec1c4" /><br><br>
 
 ---
 
@@ -92,14 +92,12 @@ Administrative controls include configurable behavior parameters, personality se
 
 #### → Autonomous Environmental Navigation
 
-Representatives are capable of navigating the virtual environment through programmable movement commands while interacting with objects, seating, visitors, and designated locations throughout a storefront.
+Representatives are capable of navigating the virtual environment through programmable movement commands while interacting with objects, seating, visitors, and designated locations throughout a storefront.<br>
 
 <img width="779" height="377" alt="image" src="https://github.com/user-attachments/assets/6f7eb0b8-0b36-4208-8d03-11d467d72621" /><br>
 <img width="779" height="377" alt="image" src="https://github.com/user-attachments/assets/430e994e-658e-489f-b5d9-19b82653a3e9" /><br>
 
-*The platform supports autonomous navigation through programmable movement logic, allowing representatives to locate destinations, intelligently transition between walking and running, and orient themselves toward visitors upon arrival to produce more natural interactions.*
-
-***Design Note**: Navigation was intentionally designed to mimic natural customer service behavior rather than instantaneous movement. Representatives transition between movement states, terminate navigation upon arrival, and orient toward the customer before interaction, reinforcing the illusion of a persistent, attentive employee.*
+*Navigation was intentionally designed to mimic natural customer service behavior rather than instantaneous movement. Representatives transition between movement states, terminate navigation upon arrival, and orient toward the customer before interaction, reinforcing the illusion of a persistent, attentive employee.*
 
 
 #### → Context-Aware Customer Assistance
@@ -116,7 +114,7 @@ One of the project's most significant engineering challenges involved building a
 
 Rather than relying on modern APIs or SDKs, the platform required reverse engineering existing behaviors, designing custom abstractions, and developing reliable communication layers capable of supporting autonomous interaction within the virtual world.
 
-## ⌛️ Business Outcome
+## ⌛️ Outcome
 
 The platform addressed a fundamental operational challenge faced by virtual storefronts: the absence of staff during most customer interactions. 
 
