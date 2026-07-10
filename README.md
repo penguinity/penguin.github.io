@@ -27,8 +27,6 @@ Having built expertise across healthcare, human resources, retail, and education
 
 The projects in this portfolio represent a progression from operational automation to full-scale data engineering and AI-assisted analytics. 
 
-Across healthcare, community operations, customer experience, and analytics, these projects demonstrate end-to-end ownership of technical solutions — from architectural design and infrastructure development to automation, validation, deployment, and continuous refinement.
-
 ### ➡️ Featured Projects
 
 * **Moderation & Privacy Infrastructure**:
