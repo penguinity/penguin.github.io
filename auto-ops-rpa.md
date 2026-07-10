@@ -5,7 +5,7 @@
 > * **Moderation & Privacy Infrastructure:** [Moderation & Privacy Infrastructure](mod-privacy.md)  
 > * **AI-Driven CSR Platform:** [AI-Driven CSR Platform](ai-csr.md)  
 > * **Autonomous Community Operations RPA (Here):** [Autonomous Community Operations RPA](auto-ops-rpa.md)
-> * **CMS Data Engineering Pipeline:** [CMS Data Engineering Pipeline](./ai-ops-case-studies.md)
+> * **CMS Data Engineering Pipeline:** [CMS Data Engineering Pipeline](cms-de-pipe.md)
 > * **Insight: CMS Part B Compliance Analytics Engine:** [Insight: Compliance Analytics Engine](insight.md)
 > * **Portfolio Summary & Operational Scope** [Community Scope & Closure](./scale-and-scope.md)
 
