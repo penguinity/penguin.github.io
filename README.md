@@ -32,20 +32,24 @@ The projects in this portfolio represent a progression from operational automati
 → **Moderation & Privacy Infrastructure**:
 Designed an intelligent assistant for a large healthcare community capable of responding to moderator inquiries, enforcing community standards, and classifying sensitive content using structured decision logic and learned decision logic. The system emphasizes privacy-by-design through carefully engineered data structures, strict guardrails, and the complete exclusion of personally identifiable information (PII). *This project has been maintained since late 2024. It will not be available on GitHub, but extensive documentation is available.*
 
-* **Business Impact**: Reduced repetitive moderation workload while preserving privacy, improving decision consistency, and allowing human moderators to focus on the community members who needed them most.
+* **Impact**: Reduced repetitive moderation workload while preserving privacy, improving decision consistency, and allowing human moderators to focus on the community members who needed them most.
 
 → **AI-Driven CSR Platform**:
+
 Engineered a production-ready C# extension that transforms legacy software into an AI-assisted operational platform. The project combines software engineering, prompt engineering, dynamic personality management, UX design, and LLM orchestration to create configurable virtual community advocates capable of safe, context-aware customer service interactions. *This full project repo will not be available on GitHub, but extensive documentation is available.*
 
-* **Business Impact**: Created a persistent digital workforce that extended customer engagement beyond business hours without sacrificing configurability, safety, or operational control.
+* **Impact**: Created a persistent digital workforce that extended customer engagement beyond business hours without sacrificing configurability, safety, or operational control.
 
 → **Autonomous Community Operations RPA**:
+
 Built a browser-based robotic process automation (RPA) pipeline that autonomously triages a community exceeding one million members. Operating through Selenium after public API access became unavailable, the system performs moderation, prioritization, and escalation while deferring only genuinely ambiguous cases to human operators through carefully defined programmatic guardrails. *This project has been continuously maintained since early 2025. For privacy reasons, the repo is not publicly available, but video demonstrations and documentation are available.*
 
 → **CMS Data Engineering Pipeline**:
+
 Developed an automated ingestion pipeline for publicly available CMS datasets, transforming fragmented Excel-based source files into clean, normalized analytical datasets. The project includes data validation, transformation workflows, and downstream Power BI reporting designed for operational and reimbursement analysis. *This repo is completed, and is visible on GitHub.*
 
 → **Insight: CMS Part B Compliance Analytics Engine**:
+
 Architected a complete healthcare analytics platform that ingests, validates, models, and analyzes CMS Part B reimbursement data. Built on a dimensional star schema with analytical SQL views and AI-assisted narrative generation, the platform converts millions of raw records into executive-ready compliance insights while maintaining data quality throughout the ETL lifecycle. *This project is visible as a repo on GitHub and is in active development. Some features will not be publicly accessible until they are rigorously tested.*
 
 ---
