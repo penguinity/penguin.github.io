@@ -6,7 +6,7 @@
 > * **AI-Driven CSR Platform (Here):** [AI-Driven CSR Platform](ai-csr.md)  
 > * **Autonomous Community Operations RPA:** [Autonomous Community Operations RPA](auto-ops-rpa.md)
 > * **CMS Data Engineering Pipeline:** [CMS Data Engineering Pipeline](./ai-ops-case-studies.md)
-> * **Insight: CMS Part B Compliance Analytics Engine:** [Insight: Compliance Analytics Engine](./ai-ops-case-studies.md)
+> * **Insight: CMS Part B Compliance Analytics Engine:** [Insight: Compliance Analytics Engine](insight.md)
 > * **Portfolio Summary & Operational Scope** [Community Scope & Closure](./scale-and-scope.md)
 
 ## 📃 Summary
