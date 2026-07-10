@@ -23,7 +23,7 @@ I don't simply process data or wait for someone else to define how it should be 
 
 Whether I'm building RPA pipelines to manage communities of more than one million members or developing AI-augmented auditing platforms, I own the full technical lifecycle from schema design, ETL architecture, and programmatic guardrails to diagnostic validation, automation, and executive-ready reporting.
 
-I shaped my own path through grit and perseverance, building expertise across some of the most data-driven and operationally demanding industries in modern technology: healthcare, human resources, and education. 
+I shaped my own path through grit and perseverance, building expertise across some of the most data-driven and operationally demanding industries in modern technology: healthcare, human resources, retail, and education. 
 
 Everything I build is guided by the same philosophy: systems should reduce complexity, amplify human capability, and leave organizations with infrastructure that is more scalable, more reliable, and easier to operate than what existed before.
 
