@@ -54,7 +54,7 @@ The system was designed with several core operational objectives:
 
 Because the community discusses highly sensitive health-related topics, privacy considerations were incorporated into the system architecture from its inception rather than treated as an afterthought.
 
-The assistant is intentionally designed to learn from moderation outcomes—not from individual users.
+The assistant is intentionally designed to learn from moderation outcomes — not from individual users.
 
 ### Privacy Principles
 
