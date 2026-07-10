@@ -33,7 +33,7 @@ The projects in this portfolio represent a progression from operational automati
 
 → **Moderation & Privacy Infrastructure**:
 
-Designed an intelligent assistant for a large healthcare community capable of responding to moderator inquiries, enforcing community standards, and classifying sensitive content using structured decision logic and learned decision logic. The system emphasizes privacy-by-design through carefully engineered data structures, strict guardrails, and the complete exclusion of personally identifiable information (PII). *This project has been maintained since late 2024. It will not be available on GitHub, but extensive documentation is available.*
+Designed an intelligent assistant for a large healthcare community capable of responding to moderator inquiries, enforcing community standards, and classifying sensitive content using structured and learned decision logic. The system emphasizes privacy-by-design through carefully engineered data structures, strict guardrails, and the complete exclusion of personally identifiable information (PII). Unlike static rule-based systems, the assistant continuously learns from validated moderation decisions, refining its confidence and improving future classifications while remaining within predefined operational boundaries. *This project has been maintained since late 2024. It will not be available on GitHub, but extensive documentation is available.*
 
 * **Impact**: Reduced repetitive moderation workload while preserving privacy, improving decision consistency, and allowing human volunteers to focus on the community members who needed them most.
 
