@@ -27,10 +27,6 @@ Collectively, these projects demonstrate practical experience across software en
 
 ---
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9528bb44-336f-40f9-8554-07dcb84c7460" />
-
----
-
 ## Engineering Themes
 
 Throughout this portfolio, several architectural principles consistently emerge:
@@ -51,34 +47,7 @@ Throughout this portfolio, several architectural principles consistently emerge:
 
 ## Portfolio Architecture
 
-```text
-                Operational Complexity
-                         │
-                         ▼
-      Moderation & Privacy Infrastructure
-      Privacy-by-Design • Decision Logic • Automation
-                         │
-                         ▼
-          AI-Driven CSR Platform
-      Legacy Modernization • AI • Virtual Workforce
-                         │
-                         ▼
-     Autonomous Community Operations RPA
-      Selenium • AI Orchestration • Exception Handling
-                         │
-                         ▼
-      CMS Data Engineering Pipeline
-      Dynamic Extraction • Normalization • KPI Engineering
-                         │
-                         ▼
- Insight: Compliance Analytics Platform
- ETL • Star Schema • Diagnostics • Benchmarking • AI
-                         │
-                         ▼
- Executive Reporting & Business Intelligence
- Power BI • PDF Reporting • Operational Intelligence
-```
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9528bb44-336f-40f9-8554-07dcb84c7460" />
 <br>
 
 💡 *Each project builds upon the engineering principles established by the previous one, progressing from operational automation to complete analytics platforms capable of transforming raw data into actionable business intelligence.*
