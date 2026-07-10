@@ -3,7 +3,7 @@
 > **Portfolio Navigation:**  
 > * **Portfolio Summary:** [Overview of Portfolio](./README.md)
 > * **Moderation & Privacy Infrastructure:** [Moderation & Privacy Infrastructure](mod-privacy.md)  
-> * **AI-Driven CSR Platform (Here):** [AI-Driven CSR Platform](./ai-csr.md)  
+> * **AI-Driven CSR Platform (Here):** [AI-Driven CSR Platform](ai-csr.md)  
 > * **Autonomous Community Operations RPA:** [Autonomous Community Operations RPA](./ai-ops-case-studies.md)
 > * **CMS Data Engineering Pipeline:** [CMS Data Engineering Pipeline](./ai-ops-case-studies.md)
 > * **Insight: CMS Part B Compliance Analytics Engine:** [Insight: Compliance Analytics Engine](./ai-ops-case-studies.md)
