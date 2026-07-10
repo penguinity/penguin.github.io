@@ -1,5 +1,14 @@
 # Autonomous Community Operations RPA
 
+> **Portfolio Navigation:**  
+> * **Portfolio Summary:** [Overview of Portfolio](./README.md)
+> * **Moderation & Privacy Infrastructure:** [Moderation & Privacy Infrastructure](mod-privacy.md)  
+> * **AI-Driven CSR Platform:** [AI-Driven CSR Platform](ai-csr.md)  
+> * **Autonomous Community Operations RPA (Here):** [Autonomous Community Operations RPA](auto-ops-rpa.md)
+> * **CMS Data Engineering Pipeline:** [CMS Data Engineering Pipeline](./ai-ops-case-studies.md)
+> * **Insight: CMS Part B Compliance Analytics Engine:** [Insight: Compliance Analytics Engine](./ai-ops-case-studies.md)
+> * **Portfolio Summary & Operational Scope** [Community Scope & Closure](./scale-and-scope.md)
+
 ## 📄 Summary
 
 As community growth accelerated beyond one million members, moderation became increasingly constrained by manual queue processing and limited operator capacity. Routine actions consumed the majority of available moderation time, leaving less opportunity to address nuanced cases requiring human judgment.
