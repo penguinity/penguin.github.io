@@ -24,7 +24,7 @@
 
 This project automates the extraction and consolidation of Medicare inpatient utilization data from a complex, multi-sheet CMS Excel workbook.
 
-The pipeline dynamically scans each worksheet, identifies the correct header row, extracts selected national and North Carolina metrics, standardizes inconsistent values, calculates additional healthcare performance indicators, and exports a clean analytical dataset for downstream reporting.
+The pipeline dynamically scans each worksheet, identifies the correct header row, extracts selected national metrics, standardizes inconsistent values, calculates additional healthcare performance indicators, and exports a clean analytical dataset for downstream reporting.
 
 Rather than relying on fixed worksheet names, row positions, or manually copied values, the workflow is designed to adapt to semi-structured government spreadsheets whose formatting may vary across sheets.
 
