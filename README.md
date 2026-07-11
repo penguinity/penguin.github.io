@@ -14,7 +14,7 @@
 
 ---
 
-> 💡 My path isn't traditional or linear, but it *has* been defined by building resilient operational and technical systems in environments where others see only chaos and complexity.
+> 💡 My path isn't traditional or linear, but it *has* been defined by building resilient operational and technical systems in environments where others might see only chaos and complexity.
 
 ---
 
