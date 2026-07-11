@@ -54,7 +54,7 @@ I developed a Python-based extraction pipeline that:
 * Scans the first 30 rows to dynamically locate table headers
 * Normalizes text for whitespace, capitalization, and line-break inconsistencies
 * Uses flexible header matching to identify relevant datasets
-* Extracts Medicare metrics for the United States and North Carolina
+* Extracts Medicare metrics for configurable states
 * Converts currency and formatted text into analysis-ready numeric values
 * Prevents duplicate metric assignments across worksheets
 * Consolidates the results into one structured DataFrame
